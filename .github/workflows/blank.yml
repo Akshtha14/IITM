@@ -9,6 +9,6 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - name: 23f2081878@ds.study.iitm.ac.in
-        run: echo "Hello, world!"
+      - name: 23f2001878@ds.study.iitm.ac.in
+        run: echo "Hello, IITM verification!"
 
